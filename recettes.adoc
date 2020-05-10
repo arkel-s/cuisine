@@ -1,3 +1,7 @@
+= Mes recettes de cuisine
+
+:toc:
+
 [[entrées]]
 Entrées
 -------
