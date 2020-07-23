@@ -10,23 +10,23 @@ Entrées
 Pâte à beignets de Mame
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-_Pour 12 fleurs de courgettes. Préparation : 30 min. Cuisson : 5 min._
+_Pour 12 fleurs de courgettes ou 2 aubergines. Préparation : 30 min. Cuisson : 5 min._
 
 *Ingrédients :*
 
-* 1 cuillère à café pleine de sel,
+* 1 cuillère à café rase de sel,
 * 1 œuf entier,
 * 210 g de farine,
-* 250 ml d’eau,
-* huile d’olive pour la friture.
+* 250 ml d’eau gazeuse (type Vichy),
+* huile pour la friture.
 
 *Préparation :*
 
 Mélanger de tout. Y tremper des fleurs de courgettes découpées en 2 ou 3
-après avoir enlevé le pistil, ou l’aubergine coupée en rondelles de 0,5
+après avoir enlevé le pistil, ou de l’aubergine coupée en rondelles de 0,5
 à 1 cm d’épaisseur.
 
-Faire frire dans de l’huile d’olive des deux côtés.
+Faire frire dans de l’huile des deux côtés.
 
 [[guacamole]]
 Guacamole
@@ -267,7 +267,7 @@ Mettre les oignons, les courgettes et le saumon dans la pâte. Mélanger
 le lait, du sel et les œufs battus, et couvrir la préparation. Finir par
 l’emmental râpé.
 
-Cuire environ 40 min à 180 [$^\circ$]C.
+Cuire environ 40 min à 180 °C.
 
 [[fajitas]]
 Fajitas
@@ -590,7 +590,7 @@ _Pour 6 personnes. Préparation : 1h30. Réfrigération : 2h minimum._
 
 Préparez une grande plaque à pâtisserie (au moins
 [$30\times30$] cm) allant au four en la couvrant d’une feuille
-de papier sulfurisé. Préchauffez votre four à 180 [$^\circ$]C.
+de papier sulfurisé. Préchauffez votre four à 180 °C.
 
 Mélanger ensemble farine, thé, bicarbonate de soude, et sel. Mélangez
 bien pour ne pas avoir de grumeaux de thé vert.
@@ -653,7 +653,7 @@ d’œufs. Battre les blancs en neige ferme. Mélanger les œufs et les sucre
 au brocciu, et le jus d’un demi citron. Incorporer les blancs en neige.
 
 Étaler la préparation dans un plat sur 5 cm d’épaisseur. Cuire 30 min à
-200 [$^\circ$]C.
+200 °C.
 
 [[rochers-à-la-noix-de-coco]]
 Rochers à la noix de coco
@@ -671,7 +671,7 @@ Mélanger les ingrédients pour former une pâte.
 
 Former dessus de petites pyramides avec la pâte.
 
-Cuire 15 min à 180 [$^\circ$]C, en surveillant pour avoir une
+Cuire 15 min à 180 °C, en surveillant pour avoir une
 coloration sur les arrêtes des pyramides.
 
 
