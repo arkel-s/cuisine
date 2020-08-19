@@ -236,38 +236,34 @@ Enlever le bouquet garni, rajouter les olives et finir la cuisson
 La Daube est meilleure préparée la veille et réchauffée. Elle peut être
 servie avec de la polenta ou des raviolis.
 
-[[quiche-au-saumon]]
-Quiche au saumon
+[[quiche-aux-courgettes]]
+Quiche aux courgettes
 ~~~~~~~~~~~~~~~~
 
-_Pour 6 personnes. Préparation : 30 min. Cuisson : environ 1h15._
+_Pour 6 personnes. Préparation : 30 min. Cuisson : environ 30 min._
 
 *Ingrédients :*
 
 * 1 rouleau de pâte feuilletée
-* 200 g de pavé de saumon
-* 1 petite courgette
-* 1 petit oignon
-* 300 ml de lait
+* 300 g de courgettes trompettes de Nice
+* 250 ml de lait
 * 3 œufs
-* 50g d’emmental râpé
-* ciboulette
-* jus d’un citron
-* sel et huile d’olive
+* 60g de parmesan râpé
+* thym
+* 1 pincée de sel
+* 3 cuillèes à soupe d'huile d’olive
 
 *Préparation :*
 
-Faire pré-cuire la pâte feuilletée dans le moule une dizaine de minutes
-au four jusqu’à ce qu’elle soit dorée et gonflée.
+Faire pré-cuire la pâte feuilletée dans un moule à tarte une dizaine de minutes au four jusqu’à ce qu’elle soit dorée et gonflée.
 
-Faire revenir l’oignon et la courgette émincée dans l’huile d’olive.
-Ajouter ensuite le saumon, le jus de citron et la ciboulette.
+Faire les courgettes coupées en rondelles dans l’huile d’olive, rajouter le thym en fin de cuisson.
 
-Mettre les oignons, les courgettes et le saumon dans la pâte. Mélanger
+Mettre les courgettes sur la pâte feuilletée cuite. Mélanger
 le lait, du sel et les œufs battus, et couvrir la préparation. Finir par
-l’emmental râpé.
+le parmesan râpé.
 
-Cuire environ 40 min à 180 °C.
+Cuire environ 30 min à 200 °C, jusqu'à ce que le parmesan soit doré.
 
 [[fajitas]]
 Fajitas
@@ -412,6 +408,45 @@ Une fois dissout, rajoutez la viande et le poivron et mettre à feu vif.
 Laissez réduire jusqu’à ce que tout le liquide se soit évaporé (environ
 25 min) et que la viande se mêle au mélange épais caramel-épices.
 Ajouter les noix de cajou à la fin.
+
+
+[[Hamburger-basque]]
+Hamburger basque
+~~~~~~~~~~~~~~~~
+
+_ Pour 1 personne. Préparation : 15 min, cuisson : 30 min _
+
+* 1 pain à hamburger (bun)
+* 1 cuillère à soupe d'huile d'olive
+* 1 courgette trompette
+* 1 petite tomate, type roma
+* 1 cornichon aigre-doux
+* 1 Steak haché
+* 50 g d'Ossau-iraty
+* Sauce Barbeccue
+* Piment d'Espelette
+
+Couper la courgette en lanières de 1 cm d'épaisseur. Les faire cuire à la poêle dans l'huile d'olive. Réserver.
+
+Découper les tomates et le cornichon en tranches fines.
+
+Cuire le steak à la poêle. une fois le 1e côté cuit, poser l'Ossau-iraty coupé en tranches sur le steak et finir la cuisson du 2e côté. 
+
+Faire chauffer le bun ouver en deux au four.
+
+Monter le hamburger : 
+
+```
+/-----\   <--- Haut du bun
+~~~~~~~~   <--- Sauce barbecue + piment d'Espelette
+00000000   <--- Cornichons
+########   <--- Steak et Ossau-iraty
+========   <--- Courgettes
+00000000   <--- Rondelles de tomate
+~~~~~~~~   <--- Sauce barbecue + piment d'Espelette
+[______]   <--- Le bas du bun
+
+```
 
 [[desserts-gâteaux]]
 Desserts & gâteaux
