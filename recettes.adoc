@@ -414,7 +414,7 @@ Ajouter les noix de cajou à la fin.
 Hamburger basque
 ~~~~~~~~~~~~~~~~
 
-_ Pour 1 personne. Préparation : 15 min, cuisson : 30 min _
+_Pour 1 personne. Préparation : 15 min, cuisson : 30 min_
 
 * 1 pain à hamburger (bun)
 * 1 cuillère à soupe d'huile d'olive
@@ -423,7 +423,7 @@ _ Pour 1 personne. Préparation : 15 min, cuisson : 30 min _
 * 1 cornichon aigre-doux
 * 1 Steak haché
 * 50 g d'Ossau-iraty
-* Sauce Barbeccue
+* Sauce barbeccue
 * Piment d'Espelette
 
 Couper la courgette en lanières de 1 cm d'épaisseur. Les faire cuire à la poêle dans l'huile d'olive. Réserver.
@@ -432,12 +432,12 @@ Découper les tomates et le cornichon en tranches fines.
 
 Cuire le steak à la poêle. une fois le 1e côté cuit, poser l'Ossau-iraty coupé en tranches sur le steak et finir la cuisson du 2e côté. 
 
-Faire chauffer le bun ouver en deux au four.
+Faire chauffer le bun ouvert en deux au four.
 
 Monter le hamburger : 
 
 ```
-/-----\   <--- Haut du bun
+/-----\    <--- Haut du bun
 ~~~~~~~~   <--- Sauce barbecue + piment d'Espelette
 00000000   <--- Cornichons
 ########   <--- Steak et Ossau-iraty
