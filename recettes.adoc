@@ -23,8 +23,7 @@ _Pour 12 fleurs de courgettes ou 2 aubergines. Préparation : 30 min. Cuisson : 
 *Préparation :*
 
 Mélanger de tout. Y tremper des fleurs de courgettes découpées en 2 ou 3
-après avoir enlevé le pistil, ou de l’aubergine coupée en rondelles de 0,5
-à 1 cm d’épaisseur.
+après avoir enlevé le pistil, ou de l’aubergine coupée en rondelles de  1 cm d’épaisseur.
 
 Faire frire dans de l’huile des deux côtés.
 
@@ -238,7 +237,7 @@ servie avec de la polenta ou des raviolis.
 
 [[quiche-aux-courgettes]]
 Quiche aux courgettes
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 _Pour 6 personnes. Préparation : 30 min. Cuisson : environ 30 min._
 
@@ -246,7 +245,7 @@ _Pour 6 personnes. Préparation : 30 min. Cuisson : environ 30 min._
 
 * 1 rouleau de pâte feuilletée
 * 300 g de courgettes trompettes de Nice
-* 250 ml de lait
+* 30 cl de lait de brebis ou de chèvre
 * 3 œufs
 * 60g de parmesan râpé
 * thym
@@ -278,12 +277,16 @@ _Pour 4 personnes. Préparation : 30 min. Cuisson : 30 min._
 * 1 poivron rouge ou vert
 * 400 g de pulpe de tomate
 * 2 cuillères à soupe de cumin
-* 2 cuillères à soupe de coriandre
+* 2 cuillères à soupe de graines de coriandre
 * 2 cuillères à soupe d’huile d’olive
 * 1 ou 2 piments oiseau, ou sauce Tabasco
 * sel
 
-*Préparation :* Faire revenir dans l’huile le poivron coupé en lanières
+*Préparation :* 
+
+Broyer les épices dans un mortier.
+
+Faire revenir dans l’huile le poivron coupé en lanières
 et les oignons émincés, puis cuire à couvert. Rajouter le poulet coupé
 en lanières, et cuire jusqu’à coloration. Rajouter les tomates, le
 cumin, la coriandre, le piment et le sel, et cuire 15 min à feu doux.
@@ -437,14 +440,14 @@ Faire chauffer le bun ouvert en deux au four.
 Monter le hamburger : 
 
 ```
-/-----\    <--- Haut du bun
+/------\    <--- Haut du bun
 ~~~~~~~~   <--- Sauce barbecue + piment d'Espelette
 00000000   <--- Cornichons
 ########   <--- Steak et Ossau-iraty
 ========   <--- Courgettes
 00000000   <--- Rondelles de tomate
 ~~~~~~~~   <--- Sauce barbecue + piment d'Espelette
-[______]   <--- Le bas du bun
+[______]   <--- Bas du bun
 
 ```
 
@@ -482,22 +485,24 @@ environ 45 min.
 Gâteau aux carottes
 ~~~~~~~~~~~~~~~~~~~
 
-Préchauffer le four Thermostat 5 (environ 150 °C).
+Préchauffer le four à 155 °C).
+
+Pour mesurer les quantités, utiliser **une tasse de 20 Cl**.
 
 Dans un saladier, verser :
 
-* 2 tasse de sucre brun ou roux
+* 3 tasses de carottes râpées
+* 1,5 tasse de sucre brun ou roux
 * 2 tasses de farine
-* 0,5 tasse d’huile
+* 4 œufs
+* 0,25 tasse d’huile
 * 1 cuillère à cafe de sel
 * 1 cuillère à cafe de cannelle en poudre
 * 1 cuillère à cafe de levure chimique
 * 2 cuillères à cafe de vanille liquide
-* 4 œufs
-* 0,5 tasse de noix (ou noix de pecan)
+* 0,5 tasse de noix de pecan
 * 0,5 tasse de raisins secs (les faire gonfler dans de l’eau chaude au
 préalable)
-* 3 tasses de carottes râpées
 
 Faire gonfler les raisins secs dans l’eau chaude.
 
