@@ -509,6 +509,78 @@ Faire gonfler les raisins secs dans l’eau chaude.
 Mélanger le tout. Verser dans un moule recouvert de papier sulfurisé.
 Laisser cuire environ 1 heure.
 
+[[Tarte-au-citron]]
+=== Tarte au citron
+image::images/tarte_citron.jpg[Tarte au citron,300,200]
+**Pour la pâte sablée:**
+
+* 250 g de farine 
+* 100 g de beurre demi sel
+* 65 g de sucre roux
+* 2 jaunes d'œuf
+* 3 cl d'eau
+
+**Pour la crème au citron:**
+
+* 4 citrons
+* 140 g de sucre roux
+* 3 œuf
+* 1 cuillère à soupe de fécule de maïs (Maïzena)
+
+**Pour la merigue:**
+
+* 2 blanc d'œuf
+* 100 g de sucre glace
+* 1/2 cuillère à café de levure chimique
+
+
+En premier, pour la crème au citron, zester 2 citrons, et mettre les zestes à mariner dans 140 g de sucre roux.
+
+====  Pâte sablée
+
+Éffriter le beurre coupé en dés dans la faine, pour avoir une consistane sableuse.
+
+Fouetter les jaunes d'œuf avec le sucre et l'eau pour les faire mousser. 
+
+Pour les meringues, mettre les blancs dans un grand récipient au réfrigirateur.
+
+Verser au milieu de ce "sable" le mélange liquide.
+Incorporer rapidement au couteau les éléments sans leur donner de corps.
+
+Former une boule avec les paumes et l'écraser plusieurs fois pour la rendre  plus homogène. 
+
+Étaler la pâte dans un moule à tarte.
+
+Cuire 20 à 25 min à 180°C, jusqu'à avoir une légère coloration.
+
+==== Crème au citron
+
+Extraire le jus des citrons, les mettre dans une casserole avec le sucre et les zestes, et la cuillère de fécule de maïs. 
+
+Remuer et commencer à faire chauffer à feux doux. 
+
+Battre les oeufs et les incorporer dans la casserole tout en remuant.
+
+Mettre à feu vif et continuer à remuer en continu à l'aide d'un fouet, afin que le mélange ne brûle pas.
+Le mélange va commencer à s'épaissir.
+
+Ôter du feu et verser la crême ainso obtenue sur le fond de tarte cuit. 
+
+Laisser refroidir.
+
+==== Meringue
+
+monter les blancs en neige avec une pincée de sel. 
+
+Quand ils commencent à être fermes, ajouter le sucre puis la levure.
+Fouetter jusqu'à ce que la neige soit ferme. 
+
+Recouvrir la crème au citron de meringue à la poche à douille.
+
+puis enfourner la tarte à 120°C/150°C jusqu’à ce que la meringue dore (environ 15 minutes). 
+
+Source: https://www.marmiton.org/recettes/recette_the-tarte-au-citron-meringuee_22082.aspx[Recette sur Marmiton]
+
 [[gâteau-au-chocolat]]
 Gâteau au chocolat
 ~~~~~~~~~~~~~~~~~~
@@ -612,7 +684,7 @@ _Pour 6 personnes. Préparation : 1h30. Réfrigération : 2h minimum._
 * 1 cuillère à café bombée de thé vert Matcha
 * 3 œufs
 * 1 cuillère à café de bicarbonate de soude
-* [$\frac{1}{4}$] cuillère à café de sel
+* 1/4 cuillère à café de sel
 * 175g de sucre
 
 *Ingrédients pour la crème légère citron*
@@ -629,7 +701,7 @@ _Pour 6 personnes. Préparation : 1h30. Réfrigération : 2h minimum._
 *Préparation de la génoise roulée*
 
 Préparez une grande plaque à pâtisserie (au moins
-[$30\times30$] cm) allant au four en la couvrant d’une feuille
+30x30 cm) allant au four en la couvrant d’une feuille
 de papier sulfurisé. Préchauffez votre four à 180 °C.
 
 Mélanger ensemble farine, thé, bicarbonate de soude, et sel. Mélangez
