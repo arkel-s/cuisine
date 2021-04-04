@@ -304,17 +304,17 @@ _Pour 2 personnes. Préparation : 10 min. Cuisson : environ 20 min._
 * 250 g de riz carnaroli ou Arborio
 * 1 oignon
 * 1 verre de vin blanc
-* 2 bouillons cubes de poule
-* 1 l d'eau
+* 1 bouillon cube de poule
+* 1 bouillon cube de légumes
+* 1,5 l d'eau
 * 60g de parmesan
-* 250 g de champignons
 * 2 cuillères à soupe d'huile d'olive
 
 Garnitures possibles:
 
 * 250 g de champignons, à faire revenir à part.
-* Ou 1 gousse d'ail, 250 g de courgettes et leurs fleurs. rajouter l'ail coupé en 4 avec le riz en début de cuisson. Faire revenir les courgettes à part et rajouter les fleurs 3 min avant la fin de la cuisson. Retirer l'ail.
-* Ou 2 doses de safran, à faire infuser dans le bouillon.
+* 250 g de courgettes et leurs fleurs. rajouter l'ail coupé en 4 avec le riz en début de cuisson. Faire revenir les courgettes à part et rajouter les fleurs 3 min avant la fin de la cuisson.
+* 2 doses de safran, à faire infuser dans le bouillon.
 
 *Préparation :*
 
@@ -377,6 +377,31 @@ dans de l’huile d’olive. Ajouter les tomates séchées, le thym, le thon,
 le pesto et de l’huile d’olive. Faire cuire les orechiette, puis les
 rajouter à la préparation. Finir par de la ricotta salée râpée.
 
+[[poulet-noix-de-cajou]]
+Poulet aux noix de cajou
+~~~~~~~~~~~~~~~
+
+_Pour 2 personnes. Préparation : 15 min. Cuisson : 15 min._
+
+*Ingrédients :*
+
+* 200g de poulet, cuisse désossée ou filet
+* 100g de noix de cajou nature, non salées
+* 1 poivron rouge
+* 1 oignon
+* 1 cuillère à soupe de miel
+* 1 cuillère à soupe d'huile
+* 3 cuillères à soupe de sauce soja
+* Feuilles de coriandre
+
+
+*Préparation :*
+
+Couper l'oignon et le poivron en tranches fines, et les faire revenir dans l'huile.
+Ajouter le poulet coupé en morceaux. 
+Une fois le poulet cuit, rajouter le miel, la sauce soja et les noix de cajou et cuire quelques minutes.
+Rajouter la coriandre avant de servir. 
+
 [[porc-au-caramel]]
 Porc au caramel
 ~~~~~~~~~~~~~~~
@@ -422,7 +447,7 @@ _Pour 1 personne. Préparation : 15 min, cuisson : 30 min_
 * 1 pain à hamburger (bun)
 * 1 cuillère à soupe d'huile d'olive
 * 1 courgette trompette
-* 1 petite tomate, type roma
+* 1 petite tomate, type Roma
 * 1 cornichon aigre-doux
 * 1 Steak haché
 * 50 g d'Ossau-iraty
@@ -473,7 +498,7 @@ autres ingrédients)
 
 *Préparation :*
 
-Préchauffer le four à 180[$^\circ$] C.
+Préchauffer le four à 180°C.
 
 Verser dans un récipient le yaourt, le sucre, la farine et la levure,
 les œufs, finir avec les pommes coupées en dés.
@@ -633,8 +658,7 @@ mettre au frais au moins deux heures.
 Poires au vin
 ~~~~~~~~~~~~~
 
-_Pour 4 à 8 poires. Préparation : 10 min. Cuisson [$\approx$]
-20 min._
+_Pour 4 à 8 poires. Préparation : 10 min. Cuisson ~20 min._
 
 * 4 à 8 poires
 * 60 cl de vin rouge
